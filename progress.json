@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T23:19:14.468Z",
+  "generated_at": "2026-10-12T16:32:43.017Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -98,6 +98,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-10-11T23:19:13.867Z",
       "last_pushed_at": "2026-10-11T23:19:13.867Z"
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-10-12T16:32:41.863Z",
+      "last_pushed_at": "2026-10-12T16:32:41.863Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
