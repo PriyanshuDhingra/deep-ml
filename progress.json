@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:05:40.297Z",
+  "generated_at": "2026-10-13T14:07:18.740Z",
   "items": {
     "problem:880": {
       "kind": "problem",
@@ -134,9 +134,9 @@
       "url": "https://www.deep-ml.com/problems/190",
       "path": "problems/0190-overlapping-max-pooling",
       "first_solved_at": "2026-10-13T14:05:38.663Z",
-      "last_pushed_at": "2026-10-13T14:05:38.663Z",
+      "last_pushed_at": "2026-10-13T14:07:16.665Z",
       "language": "python",
-      "lines": 37
+      "lines": 10
     }
   }
 }
